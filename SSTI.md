@@ -1,5 +1,5 @@
 
-## 🧠 Langkah-Langkah Diagnosis SSTI (Menemukan Payload yang Tepat)
+## 🧠 Langkah-Langkah Diagnosis SSTI (Server-Side Template Injection)
 
 ### 1. **Uji Dasar: Apakah Ekspresi Dihitung?**
 Kirimkan:
