@@ -27,7 +27,8 @@ Karena sudah mendapatkan clue dari awal, bahwa injection kita coba dengan comman
 'OR'1'='1'--
 ```
 <img width="476" height="571" alt="image" src="https://github.com/user-attachments/assets/23b3501b-34b7-4f02-878e-d99df9a83785" />
-Penjelasan kenapa program tersebut bisa tembus karena tidak memiliki validasi yang memadai, sehingga ketika menerima input TRUE langsung dieksekusi command **OR'1'='1'--** adalah mengubah value user dengan **TRUE** dan melakukan command untuk passwordnya 
+
+Penjelasan kenapa program tersebut bisa tembus karena tidak memiliki validasi yang memadai, sehingga ketika menerima input TRUE langsung dieksekusi command ``'OR'1'='1'--`` adalah mengubah value user dengan **TRUE** dan melakukan command untuk passwordnya 
 
 ### 2. Finding the Flag
 Setelah berhasil login dan halaman dimuat ulang halaman berisi flag akan muncul.
