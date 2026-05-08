@@ -56,6 +56,7 @@ Sehingga dapat disimpulkan Menambahkan nama kucing dengan underscore dan pembali
 Ini clue untuk mendapatkan akhiran flagnya : 
 > Gunakan Hex untuk bicara denganku.
 > Part 3: 5930557D"
+
 Kita bisa melakukan decode menggunakan hex menggunakan CyberChef dan didapati **Y0U}**
 > <img width="815" height="549" alt="image" src="https://github.com/user-attachments/assets/73ce8215-3edf-402c-8afd-d9aa32ad5bde" />
 
